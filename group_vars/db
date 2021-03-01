@@ -1,0 +1,2 @@
+root_password: ${root_password}
+wordpress_password: {wordpress_password}
