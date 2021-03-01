@@ -3,3 +3,4 @@ Build a 3-tier web application (lb+web+db) on GCP satisfying High Availability a
 Automating the infrastructure configuration, so just by running the playbook, Ansible will automatically configure everything.
 
 ![Alt text](./.git/3-tier appl.png?raw=true "3-tier Web Application")
+![plot](./.git/3-tier appl.png)
